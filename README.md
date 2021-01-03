@@ -5,6 +5,10 @@
 # About 
 Dedicated enthusiastic, individual with outstanding academic, communication, organizational, people skills and strong passion for teaching.
 
+# Career Achievements
+### Gold Medal - Best M. Phil., works in English in 36th Convocation held on 27-02-2020 in Acharya Nagarjuna University
+### Member of Board - In Department of English for a period of two years from 2016 to 2018 in Narasaraopeta Engineering College (Autonomous)
+
 # Education
 ## Doctor of Philosophy
 Applied Linguistics on Conversation Analysis of R. K. Narayan’s Select Stories, Acharya Nagarjuna University, Guntur. (2015– till now)
