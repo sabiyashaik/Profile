@@ -22,10 +22,12 @@ Applied Linguistics with A Grade on Conversation Analysis in R. K. Narayan Short
 English Literature, Andhra Christian College, Guntur. (2005–2007)
 
 # Experience
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+1. Worked as a Asst.prof in Narasaraopeta Engineering College Autonomous,Narasaraopet (2016-2018) 
+2. Worked as a Asst.prof in K L University, Vijayawada (2015-2016)
+3. Worked as a Asst.prof in Tirumala Engineering College ,Narasaraopet (2013-2015)
+4. Worked as a Asst.prof in Andhra Muslim College, Guntur (2011-2013)
+5. Worked as a Asst.prof in St.Mary’s Engineering College, Guntur (2010)
+6. Worked as a Lecturer in Andhra Muslim College, Guntur (2008-2010)
 
 # Publications
 1. Sabiya Shaik., (2020). “DISCOURSE ANALYSIS: CONVERSATION ANALYSIS IN R.K. NARAYAN’S SHORT STORY FATHER’S HELP”. Research Journal of English, An International Peer Reviewed
