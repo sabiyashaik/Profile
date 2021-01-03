@@ -39,3 +39,18 @@ IJELL-International Journal of English Language and Literature. 4. 35-46.
 4. Sabiya Shaik, Rayappa. (2016). “ENGLISH - AN ESSENTIAL LANGUAGE FOR ALL ENGINEERING STUDENTS”. Smart Moves Journal IJELLH, International Journal of English Language,
 Literature and Humanities ISSN: 2321-7065, 4(10), 417-426.
 
+# Webinars
++ Attended webinar on “Online Teaching Tools for Faculty Members” organised by the Department of English and Foreign Language, SRM Institute of Science and Technology, Chennai in 2020.
++ Attended webinar on “Contemporary Trends in Literature and Culture” organised by the Department of English and Foreign Language, SRM Institute of Science and Technology, Chennai in 2020.
++ Attended webinar on “Teaching Language and Literature: Need for Meaningful Integration,” organised by ELTAI in 2020.
++ Attended webinar on “Attentive and Focused Listening: Some Strategies” organised by ELTAI in 2020.
++ Attended webinar on “Smart Strategies to Teach Tertiary Level Learners of English!” organised by the Department of English and Foreign Language, SRM Institute of Science and Technology, Chennai in 2020.
++ Participated in the five days online certification course on Employability: An Essential Skill for Professional Development organised by Vishwabharathi Research centre in 2020.
++ Participated in the five days online certification course on “Communication Skills for Professionals” organised by Department of English, AVS College of Arts Science, Salem in 2020.
++ Participated in the five days online certification course on Employability: An Essential Skill for Professional Development organised by Vishwabharathi Research centre in 2020.
+
+# Contact
+Sabiya shaik
+Researcher, Acharya Nagarjuna University
+Nagarjuna Nagar, Guntur, Andhra Pradesh 522510
+shaiksabiya8@gmail.com
