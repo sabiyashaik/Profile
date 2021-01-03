@@ -50,7 +50,7 @@ Literature and Humanities ISSN: 2321-7065, 4(10), 417-426.
 + Participated in the five days online certification course on Employability: An Essential Skill for Professional Development organised by Vishwabharathi Research centre in 2020.
 
 # Contact
-Sabiya shaik
-Researcher, Acharya Nagarjuna University
-Nagarjuna Nagar, Guntur, Andhra Pradesh 522510
+Sabiya shaik\
+Researcher, Acharya Nagarjuna University\
+Nagarjuna Nagar, Guntur, Andhra Pradesh 522510\
 shaiksabiya8@gmail.com
