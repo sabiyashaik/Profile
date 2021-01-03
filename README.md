@@ -22,10 +22,10 @@ Applied Linguistics with A Grade on Conversation Analysis in R. K. Narayan Short
 English Literature, Andhra Christian College, Guntur. (2005–2007)
 
 # Experience
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 # Publications
 1. Sabiya Shaik., (2020). “DISCOURSE ANALYSIS: CONVERSATION ANALYSIS IN R.K. NARAYAN’S SHORT STORY FATHER’S HELP”. Research Journal of English, An International Peer Reviewed
