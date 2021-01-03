@@ -2,7 +2,7 @@
   <img width="150" height="150" src="https://github.com/sabiyashaik/Profile/blob/main/picture.jpg">
 </p>
 
-## About 
+# About 
 Dedicated enthusiastic, individual with outstanding academic, communication, organizational, people skills and strong passion for teaching.
 
 # Education
